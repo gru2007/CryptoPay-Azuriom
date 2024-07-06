@@ -1,0 +1,17 @@
+{
+    "id": "cryptopay",
+    "name": "Crypto Pay",
+    "description": "Support for Crypto Pay",
+    "version": "1.0.0",
+    "url": "#",
+    "authors": [
+        "Gru"
+    ],
+    "providers": [
+        "\\Azuriom\\Plugin\\Crypto\\Providers\\CryptoServiceProvider"
+    ],
+    "dependencies": {
+        "shop": "^1.0.0"
+    },
+    "azuriom_api": "1.0.0"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "azuriom/Crypto",
+    "type": "azuriom-plugin",
+    "description": "Crypto Pay for shop",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Azuriom\\Plugin\\Crypto\\": "src/"
+        }
+    }
+}
